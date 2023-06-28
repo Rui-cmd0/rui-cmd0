@@ -2,7 +2,7 @@
 
 ![rui-cmd0 GitHub stats](https://github-readme-stats.vercel.app/api?username=rui-cmd0&show_icons=true&theme=transparent )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rui-cmd0&hide_progress=true)
+
 
 
 
