@@ -29,11 +29,13 @@
 
 ---
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"> 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
-<img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="200">
-<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200">
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200">
+<p align="center">
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200">
+</p>
 
 </div>
 
