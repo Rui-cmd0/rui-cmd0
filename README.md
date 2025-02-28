@@ -30,8 +30,8 @@
 ---
 
 ### 🕹️ **Jogue Snake no meu GitHub!**
-<div align="center">
-  <img src="https://github.com/Rui-cmd0/Rui-cmd0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+![Snake animation](https://github.com/Rui-cmd0/Rui-cmd0/blob/output/dist/github-snake.svg)
+
 </div>
 
 ---
