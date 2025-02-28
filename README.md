@@ -29,8 +29,7 @@
 
 ---
 
-### 🕹️ **Jogue Snake no meu GitHub!**
-![Snake animation](https://github.com/Rui-cmd0/Rui-cmd0/blob/output/dist/github-snake.svg)
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200">
 
 </div>
 
